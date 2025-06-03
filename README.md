@@ -19,7 +19,7 @@ It is designed to provide tools for building language-based applications, learni
 
 ## Target Audience
 
-- Python developers who prefer coding in Turkish
+- Python developers who prefer coding in Kurdish
 - Students who are new to programming
 - Educational institutions and teachers
 - Developers aiming to improve code readability and consistency in native language contexts
@@ -28,7 +28,7 @@ It is designed to provide tools for building language-based applications, learni
 
 ## Example Usage
 
-### 1. **test.py** — Quick Tests
+### 1. ``test.py`` Quick Tests
 
 This file includes sample usage and basic tests to verify that the library functions as expected.
 
@@ -55,7 +55,7 @@ nivîs("Paşxistin:", lîste_alîkar.paşxistin(kopî))
 
 ---
 
-### 2. **peyv_listik.py** — Sample Vocabulary Game
+### 2. ``peyv_lîstik.py`` Sample Vocabulary Game
 
 This is a simple word quiz game that demonstrates how the library can be used in a real application.  
 Users are asked to guess the Turkish meanings of Kurdish words.
@@ -105,7 +105,7 @@ Bersiva te: yemek
 
 ## Note on Kurdish NLP
 
-Although this project is not primarily focused on NLP, it includes a sample word-guessing game in Kurdish (peyv_listik.py) to demonstrate how Kurdish content can be used in Python applications.
+Although this project is not primarily focused on NLP, it includes a sample word-guessing game in Kurdish ``peyv_listik.py`` to demonstrate how Kurdish content can be used in Python applications.
 
 Additionally, Kurdish natural language processing (NLP) is an emerging and promising field. For more advanced Kurdish NLP tools and resources, check out the excellent [Kurdish Language Processing Toolkit (KLPT) ](https://github.com/sinaahmadi/klpt) developed by Sina Ahmadi. KLPT provides useful tools for morphological analysis, tokenization, POS tagging, and more.
 
